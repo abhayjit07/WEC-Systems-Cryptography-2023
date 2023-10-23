@@ -1,36 +1,27 @@
 # WEC-Systems-Cryptography-2023
 
-## Step1
+## Step 1: MD5 Hash
 
-Perform MD5 hash of hello 
+- Perform MD5 hash of "hello."
+- Text obtained: `5d41402abc4b2a76b9719d911017c592`
 
-Text obtained: 5d41402abc4b2a76b9719d911017c592
+## Step 2: XOR Operations
 
-## Step2
+- XOR operation 1: `6b64756576696168657a766775646465`
+- XOR operation 2: `696c716e676a726879776e66786c7973`
+- XOR operation 3: `346c7176736c75646f657474756272757465`
 
-XOR each string given in question with xor then concatenate the strings
+- Concatenate the 3 strings to obtain: `6b64756576696168657a766775646465696c716e676a726879776e66786c7973346c7176736c75646f657474756272757465`
 
-XOR operation 1: 6b64756576696168657a766775646465
+## Step 3: Convert to ASCII
 
-XOR operation 2: 696c716e676a726879776e66786c7973
+- Convert the string obtained in step 2 to ASCII.
+- String obtained: `kdueviahezvguddeilqngjrhywnfxlys4lqvsludoettubrute`
 
-XOR operation 3: 346c7176736c75646f657474756272757465
+- Using the hint "ettubrute," apply a Caesar decipher technique on the string to obtain: `harbsfxebwsdraabfinkdgoevtkcuivp4inspiral`
 
-Concatenate the 3 strings 
+## Step 4: Route Decipher
 
-String Obtained: 6b64756576696168657a766775646465696c716e676a726879776e66786c7973346c7176736c75646f657474756272757465
+- Using the hint "4inspiral" in the string `harbsfxebwsdraabfinkdgoevtkcuivp4inspiral`, apply route decipher with a width size of 4.
 
-## Step3
-Convert the string obtained to ASCII.
-
-String Obtained: kdueviahezvguddeilqngjrhywnfxlys4lqvsludoettubrute
-
-Using the hint ettubrute, we apply caesar decipher technique on the string: kdueviahezvguddeilqngjrhywnfxlys4lqvsludo
-
-The deciphered string obtained is: harbsfxebwsdraabfinkdgoevtkcuivp4inspiral
-
-## Step 4
-
-Using the hint 4inspiral in the string harbsfxebwsdraabfinkdgoevtkcuivp4inspiral we apply route decipher with width size 4 on the 
-String: harbsfxebwsdraabfinkdgoevtkcuivp
 
