@@ -9,7 +9,7 @@ ascii_string = bytes_data.decode("ascii")
 print(f"String obtained: {ascii_string}")
 
 ascii_string_required = ascii_string[:-9] 
-print(f"Sting to be used: {ascii_string_required}")
+print(f"String to be used: {ascii_string_required}")
 
 hint = ascii_string[-9:]
 print(f"Hint: {hint}") 
