@@ -18,18 +18,20 @@
 - Convert the string obtained in step 2 to ASCII.
 - String obtained: `kdueviahezvguddeilqngjrhywnfxlys4lqvsludoettubrute`
 
+## Step 4: Et tu Brute
+
 - Using the hint "ettubrute," apply a Caesar decipher technique on the string to obtain: `harbsfxebwsdraabfinkdgoevtkcuivp4inspiral`
 
-## Step 4: Route Decipher
+## Step 5: Route Decipher
 
 - Using the hint "4inspiral" in the string `harbsfxebwsdraabfinkdgoevtkcuivp4inspiral`, apply route decipher with a width size of 4.
 - The hint obtained after deciphering `fivexfivebutbackwards` 
 
-## Step 5: Polybius Square
+## Step 6: Polybius Square
 - Using this hint we apply the "Polybius Square Encryption" Technique on the string `harbkdgsnpo`.
 - The number obtained is `43 55 24 54 41 52 44 23 33 31 32`
 
-## Step 6: Converting Hexadecimal to ASCII 
+## Step 7: Converting Hexadecimal to ASCII 
 - The ASCII String obtained is `CU$TARD#312`.
   
 
