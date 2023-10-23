@@ -23,5 +23,14 @@
 ## Step 4: Route Decipher
 
 - Using the hint "4inspiral" in the string `harbsfxebwsdraabfinkdgoevtkcuivp4inspiral`, apply route decipher with a width size of 4.
+- The hint obtained after deciphering `fivexfivebutbackwards` 
+
+## Step 5: Polybius Square
+- Using this hint we apply the "Polybius Square Encryption" Technique on the string `harbkdgsnpo`.
+- The number obtained is `43 55 24 54 41 52 44 23 33 31 32`
+
+## Step 6: Converting Hexadecimal to ASCII 
+- The ASCII String obtained is `CU$TARD#312`.
+  
 
 
