@@ -60,18 +60,12 @@
 - Using the hint "4inspiral" in the string `harbsfxebwsdraabfinkdgoevtkcuivp4inspiral`, apply route decipher with a width size of 4.
 
 ### Application
-- Arrange the string `harbsfxebwsdraabfinkdgoevtkcuivp` in a 4x8 matrix by filling in the string in clockwise direction.
+- Arrange the string `harbsfxebwsdraabfinkdgoevtkcuivp` in a 8x4 matrix by filling in the string in clockwise direction.
 - The obtained matrix is as follows:
-| h | a | r | b |
-|---|---|---|---|
-| s | f | x | e |
-| b | w | s | d |
-| r | a | a | b |
-| f | i | n | k |
-| d | g | o | e |
-| v | t | k | c |
-| u | i | v | p |
 
+![image](https://github.com/abhayjit07/WEC-Systems-Cryptography-2023/assets/100589347/ef9e216e-128d-4da5-b464-d30631784f5f)
+
+- Text obtained after deciphering: `harbkdgsnpofivexfivebutbackwards`
 - The hint obtained after deciphering `fivexfivebutbackwards` 
 
 ## Step 6: Polybius Square
