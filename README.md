@@ -86,7 +86,14 @@
 - The encrypted number obtained is `43 55 24 54 41 52 44 23 33 31 32`
 
 ## Step 7: Converting Hexadecimal to ASCII 
+### Application
+- Convert the encrypted numbere to ASCII.
 - The ASCII String obtained is `CU$TARD#312`.
+
+## Final Password: `CU$TARD#312`
+
+![image](https://github.com/abhayjit07/WEC-Systems-Cryptography-2023/assets/100589347/14fa395a-d765-45e0-a9d5-354bd852b6f9)
+
   
 
 
