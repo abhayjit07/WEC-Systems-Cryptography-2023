@@ -69,8 +69,21 @@
 - The hint obtained after deciphering `fivexfivebutbackwards` 
 
 ## Step 6: Polybius Square
+
+### About Polybius Square
+- The Polybius Square, also known as the Polybius Checkerboard, is a classical encryption technique used for encoding letters or symbols into a set of two numbers, typically coordinates on a grid. 
+- It was named after the ancient Greek historian and scholar Polybius, who is often attributed as its inventor.
+
+### Hint to apply Polybius Square.
+- The hint obtained after deciphering text in step 5: `fivexfivebutbackwards` 
 - Using this hint we apply the "Polybius Square Encryption" Technique on the string `harbkdgsnpo`.
-- The number obtained is `43 55 24 54 41 52 44 23 33 31 32`
+
+### Application
+- Since the hint asks to apply the polybius square backwards, the grid obtained is as follows:
+
+![image](https://github.com/abhayjit07/WEC-Systems-Cryptography-2023/assets/100589347/ce2eb980-1101-41c1-98fe-091e7a6af2fe)
+
+- The encrypted number obtained is `43 55 24 54 41 52 44 23 33 31 32`
 
 ## Step 7: Converting Hexadecimal to ASCII 
 - The ASCII String obtained is `CU$TARD#312`.
